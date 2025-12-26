@@ -1,5 +1,5 @@
 ---
-title: "Introductuion to Porgramming in Python"
+title: "Introductuion to Porgramming in Python - Lecturer"
 collection: teaching
 type: "Undergraduate course"
 permalink: https://www.oslomet.no/en/study/sam/introduction-programming
