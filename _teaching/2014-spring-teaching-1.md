@@ -4,7 +4,7 @@ collection: teaching
 type: "Undergraduate course"
 permalink: [/teaching/2014-spring-teaching](https://www.oslomet.no/en/study/sam/introduction-programming)
 venue: "Oslo Business School"
-date: 2024-2026
+date: 
 location: "Oslo, Norway"
 ---
 
