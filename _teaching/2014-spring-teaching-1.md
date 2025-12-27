@@ -5,7 +5,6 @@ type: "Undergraduate course"   # or "Graduate course", "Guest lecture", etc.
 venue: "Oslo Business School (OsloMet)"
 location: "Oslo, Norway"
 date: 2024-01-01
-permalink: /teaching/short-slug/
 website: "https://..."         # external link
 term: "Spring 2024"            # optional
 role: "Lecturer"               # optional
