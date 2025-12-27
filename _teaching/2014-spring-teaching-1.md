@@ -7,13 +7,3 @@ venue: "Oslo Business School"
 date: 2024
 location: "Oslo, Norway"
 ---
-
-
-Heading 1
-======
-
-Heading 2
-======
-
-Heading 3
-======
