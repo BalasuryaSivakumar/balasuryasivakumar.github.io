@@ -17,6 +17,8 @@ author_profile: true
   with Miriam Hernandez [Link](https://lup.lub.lu.se/student-papers/search/publication?q=author+exact+%22Sivakumar%2C+Balasurya%22)
 
 - **Food Price Volatility in International and Indian Markets: A Case of Rice and Wheat**
+  [PDF](files\Finalthesis01_Bala.pdf)
 
   **FDI in India: A Macroeconomic Diagnosis**
+  [PDF](files\Thesis_Final doc.pdf]
   
