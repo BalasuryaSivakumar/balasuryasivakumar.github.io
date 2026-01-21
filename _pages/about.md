@@ -8,7 +8,7 @@ redirect_from:
 ---
 I am a PhD candidate in Economics at Oslo Business School (OsloMet).
 
-My current research uses tools from applied microeconomics to study topics related to the environment, education, and gender in low- and middle-income countries.
+My current research uses tools from applied microeconomics to study topics related to the environment, education, and political economy in low- and middle-income countries.
 
 
 
