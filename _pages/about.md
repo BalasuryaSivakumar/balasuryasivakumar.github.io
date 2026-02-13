@@ -8,7 +8,8 @@ redirect_from:
 ---
 I am a PhD candidate in Economics at Oslo Business School (OsloMet).
 
-My current research uses tools from applied microeconomics to study topics related to the environment, education, and political economy in low- and middle-income countries.
+I am broadly interested in developmental issues in low- and middle-income countries. My current research uses tools from applied microeconomics to study questions in environmental economics, education, and political economy.
 
+You can reach me at balasurya.sivakumar@oslomet.no
 
 
