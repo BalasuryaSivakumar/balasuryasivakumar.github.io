@@ -6,7 +6,7 @@ redirect_from:
   - /about/
   - /about.html
 ---
-I am a PhD candidate in Economics at Oslo Business School (OsloMet).
+I am a PhD candidate in Economics at Oslo Business School (OsloMet). I am supervised by Prof. Anders Kjelsurd and Prof. Fenella Carpena.
 
 I am broadly interested in developmental issues in low- and middle-income countries. My current research uses tools from applied microeconomics to study questions in environmental economics, education, and political economy.
 
