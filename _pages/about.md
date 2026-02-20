@@ -14,12 +14,19 @@ You can reach me at <balasurya.sivakumar@oslomet.no>
 
 ## Education
 
-- **PhD in Economics**, Oslo Business School (OsloMet), Norway  
-  2023–Present  
-  Advisors: Prof. Anders Kjelsrud, Prof. Fenella Carpena  
-- **MSc in Economics**, [Lunds Universitet], [Sweden]  
-  2020-2022  
-- **BA (Hons.) in Economics**, [Azim Premji University, Bangalore], [India]  
-  2016-2019  
+## Education
+
+PhD in Economics  
+Oslo Business School (OsloMet), Norway  
+2023–Present  
+Advisors: Prof. Anders Kjelsrud and Prof. Fenella Carpena  
+
+MSc in Economics  
+Lund University, Sweden  
+2020–2022  
+
+BA (Hons.) in Economics  
+Azim Premji University, Bangalore, India  
+2016–2019  
 
 
