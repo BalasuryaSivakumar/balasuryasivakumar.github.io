@@ -12,16 +12,13 @@ I am broadly interested in developmental issues in low- and middle-income countr
 
 You can reach me at <balasurya.sivakumar@oslomet.no> 
 
-<div class="notice--info">
+## Education
 
-### Education
+{: .notice--primary}
+PhD in Economics — OsloMet (2023–Present)
 
-**PhD in Economics**, Oslo Business School (OsloMet), Norway (2023–Present)  
-Advisors: Anders Kjelsrud and Fenella Carpena  
+{: .notice--primary}
+MSc in Economics — Lund University (2020–2022)
 
-**MSc in Economics**, Lund University (2020–2022)  
-
-**BA (Hons.) in Economics**, Azim Premji University (2016–2019)
-
-</div>
-
+{: .notice--primary}
+BA (Hons.) in Economics — Azim Premji University (2016–2019)
