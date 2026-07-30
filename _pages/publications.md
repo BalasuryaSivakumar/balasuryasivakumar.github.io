@@ -6,12 +6,17 @@ author_profile: true
 ---
 ### Working papers
 - **Coal Power Expansion and Human Capital in India**  
-  (email me for the draft)
-  <details>
-<summary><strong>Abstract</strong></summary>
-This paper examines the effect of exposure to coal-fired power generation on children’s educational outcomes in India. To estimate this relationship, I exploit spatial and temporal variation in the commissioning of new coal capacity across locations and birth cohorts during India’s peak coal expansion period, 2005--2015. Comparing children born in the same location before and after nearby coal capacity was commissioned, I find that a median increase in nearby coal capacity reduces completed schooling by 0.11 years, or 2.1 percent of the sample mean. Coal exposure also reduces primary and middle school completion and the likelihood that children are on-track for their age. The estimates are larger for children born closer to coal plants and in downwind locations, further consistent with local air pollution as a potential mechanism. Complementary evidence shows that coal exposure worsens early-childhood health, suggesting that early-life insults may be one pathway through which coal-fired power generation affects later educational attainment. The results are robust to checks for differential pre-trends, local economic development, and endogenous migration across locations. These findings suggest that the costs of coal-fired power generation may extend beyond contemporaneous health impacts to children’s human capital accumulation.
-</details>
+  [Email me for the draft]
 
+  <details>
+  <summary><strong>Abstract</strong></summary>
+  <p>
+  Paste your complete abstract here. This paper examines the effects of
+  coal-fired power expansion on human-capital outcomes in India. Using
+  variation in the timing and geographic proximity of new coal capacity,
+  the analysis studies how exposure affects educational attainment.
+  </p>
+  </details>
 
 
 
