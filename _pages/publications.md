@@ -6,7 +6,15 @@ author_profile: true
 ---
 ### Working papers
 - **Coal Power Expansion and Human Capital in India**  
-  (email me for the draft)  
+  (email me for the draft)
+  <details>
+<summary><strong>Abstract</strong></summary>
+
+Paste your abstract here. The abstract can contain multiple paragraphs.
+
+For example, this paper examines the effects of coal-fired power expansion on human-capital outcomes in India. Using variation in the timing and geographic proximity of new coal capacity, the analysis studies how exposure affects educational attainment.
+
+</details>
 
 ### Work in progress
 - **Does removing size-dependent policies stimulate growth?**
