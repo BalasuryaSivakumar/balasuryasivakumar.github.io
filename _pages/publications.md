@@ -4,19 +4,21 @@ title: "Research"
 permalink: /publications/
 author_profile: true
 ---
-### Working papers
-- **Coal Power Expansion and Human Capital in India**  
-  [Email me for the draft]
 
-  <details>
-  <summary><strong>Abstract</strong></summary>
-  <p>
-  Paste your complete abstract here. This paper examines the effects of
-  coal-fired power expansion on human-capital outcomes in India. Using
-  variation in the timing and geographic proximity of new coal capacity,
-  the analysis studies how exposure affects educational attainment.
-  </p>
-  </details>
+### Working papers
+
+<ul>
+<li>
+<strong>Coal Power Expansion and Human Capital in India</strong><br>
+<a href="mailto:YOUR-EMAIL@ADDRESS.COM">Email me for the draft</a>
+<details>
+<summary><strong>Abstract</strong></summary>
+<p>
+Paste your complete abstract here.
+</p>
+</details>
+</li>
+</ul>
 
 
 
