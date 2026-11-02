@@ -9,7 +9,7 @@ author_profile: true
 
 <ul>
 <li>
-<strong>Coal Power Expansion and Human Capital in India</strong><br>
+<strong>Coal Power Expansion and Human Capital in India (JMP) </strong><br>
 <a href="mailto:balasurya.sivakumar@oslomet.no">Email me for the draft</a>
 <details>
 <summary><strong>Abstract</strong></summary>
